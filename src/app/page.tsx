@@ -11,10 +11,10 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between bg-black text-white selection:bg-orange-500 selection:text-white">
       <AudioPlayer />
       <Hero />
-      <VideoShowcase />
       <Architecture />
       <Preparation />
       <Specs />
+      <VideoShowcase />
       <Footer />
     </main>
   );

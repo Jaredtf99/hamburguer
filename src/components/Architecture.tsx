@@ -24,6 +24,12 @@ const ingredients = [
         img: "/images/ingredient_apple_1769865953951.png",
     },
     {
+        id: "arugula",
+        name: "Rúcula Fresca",
+        desc: "Picante y Crujiente",
+        img: "/images/ingredient_arugula_1769876950866.png",
+    },
+    {
         id: "cheese",
         name: "Queso de Cabra",
         desc: "Intenso y Cremoso",
