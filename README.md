@@ -1,0 +1,3 @@
+# Hamburguesa
+
+Project initialized.
